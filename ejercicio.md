@@ -1,7 +1,3 @@
-Aquí tienes el diseño del programa de gestión de productos para el supermercado JSumbo, organizado y estructurado en formato Markdown para tus estudiantes:
-
------
-
 # Gestión de Productos JSumbo: Programa por Consola
 
 El objetivo de este programa es simular la gestión de productos y ventas de un supermercado. Se utilizarán estructuras de datos como listas de diccionarios para los productos y diccionarios para los clientes, aplicando conceptos fundamentales de Python como funciones (con y sin parámetros), manejo de errores y un menú interactivo.
